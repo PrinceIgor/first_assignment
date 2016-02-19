@@ -1,0 +1,63 @@
+<style>
+
+header {
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+}
+h1 {
+    text-align: center;
+}
+
+nav {
+    border-style: dotted;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+}
+
+.nav-section {
+    display: inline-block;
+}
+
+.image-nav {
+    display: inline-block;
+    margin-right: ;
+     width: 100px;
+    height: 200px;
+}
+
+aside {
+    float: center;
+    width: 300px;
+    padding: 10px;   
+}
+
+}
+.section-section {  
+    display: inline-block;
+    margin-left: ;
+     width: 100px;
+    height: 100px;
+ }
+.article-section {
+    display: inline-block;
+ }
+section {
+    text-align: center;
+     width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+
+}
+article{
+    text-align: center;
+    width: 150px;
+    height: 200px;
+}
+body{ 
+background: gray;
+ }
+</style>
